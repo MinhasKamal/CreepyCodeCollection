@@ -1,6 +1,6 @@
 // Source: From MinhasKamal's brain
 // Swaps value of two variables. 'a^=b^=a^=b' works too.
-
+ 
 #include <stdio.h>
 
 main(){
