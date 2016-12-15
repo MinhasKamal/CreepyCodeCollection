@@ -1,6 +1,6 @@
 // Developer- Peter van der Linden (April 1, 1996), a little modified.
 // Prints "Hi!" in the console, looks like a big meaningless comment though.
-
+ 
 public class obfuscated{
 	/**
 	 * Hi!
