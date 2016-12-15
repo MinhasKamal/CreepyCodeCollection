@@ -1,3 +1,6 @@
+// Source- http://stackoverflow.com/questions/20720098/how-does-this-print-hello-world
+// Outputs "hello world" in the console.
+
 public class hello_world{
     public static void main (String[] args) {
         for(long l=4946144450195624l; l>0; l>>=5)
