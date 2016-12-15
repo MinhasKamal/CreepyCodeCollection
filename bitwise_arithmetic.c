@@ -6,7 +6,7 @@
 main(){
     printf("%d %d", add(4, 5), multiply(4, 5));
 }
-
+ 
 int multiply(int a, int b){
     return b==0?0:add(((b&1) ==1?a:0),multiply(a<<1,b>>1));
 }
