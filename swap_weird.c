@@ -1,5 +1,5 @@
 // Source: From MinhasKamal's brain
-// Swaps value of two variables. 'a^=b^=a^=b' works too.
+// Strange code that swaps value of two variables. 'a^=b^=a^=b' works too.
  
 #include <stdio.h>
 
