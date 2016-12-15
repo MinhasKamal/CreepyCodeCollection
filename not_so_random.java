@@ -1,6 +1,6 @@
 // Source- http://vanillajava.blogspot.com/2011/10/randomly-no-so-random.html
 // Will (randomly!) print- 1 1 1 1 1 1 1 1 1 1.
-
+ 
 import java.util.Random;
 
 public class not_so_random{
