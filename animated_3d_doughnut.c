@@ -1,5 +1,5 @@
 // Source- https://www.a1k0n.net/2011/07/20/donut-math.html
-// Shows a 3d animated donut with ASCII art.
+// Shows a 3d animated doughnut with ASCII art.
 
              k;double sin()
          ,cos();main(){float A=
