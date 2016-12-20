@@ -42,6 +42,10 @@ Most of the programs here are hell hard to understand. The source addresses prov
 
 All the programs here have been tested (by me). [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages) has online code editors and compilers, which can be used to run these programs. Many programs here have been collected from q/a and discussion sites, like- [StackOverflow](stackoverflow.com), [Quora](https://www.quora.com/), [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com/), & [Hacker News](https://news.ycombinator.com/news).
 
-### Sites for More Creepy Codes
+### Places for More Creepy Codes
 - http://www.ioccc.org/years-spoiler.html
 - http://www.iwriteiam.nl/SigProgC.html
+- http://codegolf.stackexchange.com/questions/69/golf-you-a-quine-for-great-good
+- http://uguu.org/sources.html
+- https://www.quora.com/What-is-the-most-elegant-line-of-code-youve-seen
+- https://www.quora.com/What-is-the-shortest-and-most-effective-code-ever-written
