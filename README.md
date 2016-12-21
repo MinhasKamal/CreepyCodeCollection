@@ -3,6 +3,8 @@
 
 Here we are talking about creepiest of the most creepy codes. Programs, behave so strange, that they will twist your brain. Snippets, so small, that you won’t believe their functionality. And codes, so cryptic, that even the top coders will think of going back to the college.
 
+**Note**: Never try this type of code in a real life software project; readability and maintainability should be the main concern there.
+
 ### Intro
 See this cute little code ([↗](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/check_prime.pl))-
 
@@ -12,7 +14,7 @@ See this cute little code ([↗](https://github.com/MinhasKamal/CreepyCodeCollec
 
 In Perl, this regular expression checks if a number is prime.
 
-Following code will give day of the week for a given date ([↗](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/day_of_week.c))-
+Following code will produce day of the week for a given date ([↗](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/day_of_week.c))-
 
 ``` C
 ((y-=m<3)+y/4-y/100+y/400+" bed=pen+mad."[m]+d)%7
@@ -26,7 +28,7 @@ int i = (byte) + (char) - (int) + (long) - 1;
 
 What will be the value of `i`? Will the code even compile? Weird! Huh?
 
-The program is a Ruby Quine called qlobe ([↗](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/qlobe.rb)). See its amazing output-
+The program is a Ruby [Quine](https://en.wikipedia.org/wiki/Quine_(computing)) called qlobe ([↗](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/qlobe.rb)). Isn't the the output amazing?
 
   <div align="center">
     <img src="https://cloud.githubusercontent.com/assets/5456665/21362343/258441bc-c712-11e6-88bf-f8f02a028ad3.gif" alt="Qlobe" height="300" width=auto/>
@@ -41,8 +43,6 @@ This is my favourite- Animated 3d Doughnut ([↗](https://github.com/MinhasKamal
 Most of the programs here are hell hard to understand. The source addresses provided with the codes contain useful details. 
 
 All the programs here have been tested (by me). [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages) has online code editors and compilers, which can be used to run these programs. Many programs here have been collected from q/a and discussion sites, like- [StackOverflow](stackoverflow.com), [Quora](https://www.quora.com/), [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com/), & [Hacker News](https://news.ycombinator.com/news).
-
-**Disclaimer**: Never try this type of code in a real life software project. Readability and maintainability should be the main concern there.
 
 ### Places for More Creepy Codes
 - http://www.ioccc.org/years-spoiler.html
