@@ -1,4 +1,4 @@
-// Developer- Andy Sloane (2006)
+// Developer- Andy Sloane (https://www.a1k0n.net/about.html)
 // Intro- Shows a 3d animated doughnut with ASCII art.
 // Details- https://www.a1k0n.net/2011/07/20/donut-math.html
 
