@@ -49,6 +49,7 @@ All the programs here have been tested (by me). [TutorialsPoint-CodingGround](ht
 - http://www.iwriteiam.nl/SigProgC.html
 - http://codegolf.stackexchange.com/questions/69/golf-you-a-quine-for-great-good
 - http://uguu.org/sources.html
+- http://js1k.com/
 - https://www.quora.com/What-is-the-most-elegant-line-of-code-youve-seen
 - https://www.quora.com/What-is-the-shortest-and-most-effective-code-ever-written
 
