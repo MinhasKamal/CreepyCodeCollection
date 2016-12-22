@@ -1,5 +1,6 @@
-// Source- https://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week#Implementation-dependent_methods
-// Computes day of the week for given date.
+// Developer- Tomohiko Sakamoto 
+// Intro- Computes day of the week for given date.
+// Details- https://www.quora.com/How-does-Tomohiko-Sakamotos-Algorithm-work/answer/Raziman-T-V?srid=u2HNX
 
 #include <stdio.h>
 
