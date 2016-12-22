@@ -1,5 +1,7 @@
+# Developer- Yusuke Endoh (https://github.com/mame/)
+# Intro- Prints the globe. And it can also be turned by puting command-line argument.
+# Details- http://stackoverflow.com/questions/4504196/how-does-this-superb-quine-work
 # Source- http://mamememo.blogspot.com/2010/09/qlobe.html
-# Prints the globe. And it can also be turned by giving command-line integer argument.
 
 v=0000;eval$s=%q~d=%!^Lcf<LK8,                  _@7gj*LJ=c5nM)Tp1g0%Xv.,S[<>YoP
 4ZojjV)O>qIH1/n[|2yE[>:ieC       "%.#%  :::##"       97N-A&Kj_K_><wS5rtWk@*a+Y5
