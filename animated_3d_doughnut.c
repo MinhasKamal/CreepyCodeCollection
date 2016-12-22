@@ -1,5 +1,6 @@
-// Source- https://www.a1k0n.net/2011/07/20/donut-math.html
-// Shows a 3d animated doughnut with ASCII art.
+// Developer- Andy Sloane (2006)
+// Intro- Shows a 3d animated doughnut with ASCII art.
+// Details- https://www.a1k0n.net/2011/07/20/donut-math.html
 
              k;double sin()
          ,cos();main(){float A=
