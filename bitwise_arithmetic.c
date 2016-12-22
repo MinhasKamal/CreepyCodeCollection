@@ -1,5 +1,6 @@
-// Source- https://www.quora.com/profile/Debarghya-Das
-// Performs addition and multiplication using only bit operation.
+// Developer- Debarghya Das (http://debarghyadas.com)
+// Intro- Performs addition and multiplication using only bit operation.
+// Source- https://www.quora.com/What-is-the-most-elegant-line-of-code-youve-seen/answer/Debarghya-Das?srid=u2HNX
 
 #include <stdio.h>
 
