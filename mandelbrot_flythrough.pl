@@ -1,5 +1,5 @@
+# Intro- Rotates, zooms in & out, and scrolls randomly to examine regions of the Mandelbrot.
 # Source- http://www.perlmonks.org/?node_id=329492
-# Rotates, zooms in & out, and scrolls randomly to examine regions of the Mandelbrot.
 
 
  $r=25; $c=80;
