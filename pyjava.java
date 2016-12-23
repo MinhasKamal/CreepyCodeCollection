@@ -1,5 +1,6 @@
 // Developer- Minhas Kamal (https://minhaskamal.github.io)
 // Intro- Java code written like python. Finds factorial of big numbers.
+// Details- Really! You need detail here too!
 
 public class Factorial                                                                          {
 	
