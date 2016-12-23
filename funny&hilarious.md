@@ -37,6 +37,12 @@
     //When I wrote this, only God and I understood what I was doing
     //Now, God only knows
 
+## Commit before Leaving Job
+
+    #define if while
+
+
+
 <br />
 <div align="right">
     <b><i>So funny & hilarious that they may seem creepy!</i></b>
