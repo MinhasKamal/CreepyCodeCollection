@@ -1,5 +1,5 @@
-// Source- http://stackoverflow.com/questions/20720098/how-does-this-print-hello-world
-// Outputs "hello world" in the console.
+// Intro- Magically outputs "hello world" in the console.
+// Details- http://stackoverflow.com/questions/20720098/how-does-this-print-hello-world
  
 public class hello_world{
     public static void main (String[] args) {
