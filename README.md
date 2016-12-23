@@ -39,6 +39,8 @@ This is my favourite- Animated 3d Doughnut ([↗](https://github.com/MinhasKamal
   <div align="center">
     <img src="https://cloud.githubusercontent.com/assets/5456665/21362492/c976724a-c712-11e6-9773-03e80f8ba598.gif" alt="Animated 3d Doughnut" height="300" width=auto/>
   </div>
+  
+Click <a href="data:text/html,<body%20style=margin:0><canvas%20id=q%20/><script>var%20q=document.getElementById('q'),s=window.screen,w=q.width=s.width,h=q.height=s.height,p=Array(256).join(1).split(''),c=q.getContext('2d'),m=Math;setInterval(function(){c.fillStyle='rgba(0,0,0,0.05)';c.fillRect(0,0,w,h);c.fillStyle='rgba(0,255,0,1)';p=p.map(function(v,i){r=m.random();c.fillText(String.fromCharCode(m.floor(2720+r*33)),i*10,v);v+=10;%20return%20v>768+r*1e4?0:v})},33)</script>" target="_blank">this link</a> and see the magic yourself ([↗](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/matrix_effect.html))!
 
 Most of the programs here are hell hard to understand. The source addresses provided with the codes contain useful details. 
 
@@ -51,6 +53,7 @@ All the programs here have been tested (by me). [TutorialsPoint-CodingGround](ht
 - http://codegolf.stackexchange.com/questions/69/golf-you-a-quine-for-great-good
 - http://uguu.org/sources.html
 - http://js1k.com/
+- http://stackoverflow.com/questions/1995113/strangest-language-feature
 - https://www.quora.com/What-is-the-most-elegant-line-of-code-youve-seen
 - https://www.quora.com/What-is-the-shortest-and-most-effective-code-ever-written
 - http://codegolf.stackexchange.com/questions/tagged/tips?sort=votes&pageSize=15
