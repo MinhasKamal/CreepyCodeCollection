@@ -1,5 +1,5 @@
-// Source- http://stackoverflow.com/questions/7924961/weird-java-behavior-with-casts-to-primitive-types
-// It is surprising enough, that the code compiles & prints 1.
+// Intro- It is surprising enough, that the code compiles & prints 1.
+// Details- http://stackoverflow.com/questions/7924961/weird-java-behavior-with-casts-to-primitive-types
 
 class confusion{
     
