@@ -1,5 +1,5 @@
-# Source- http://preshing.com/20110926/high-resolution-mandelbrot-in-obfuscated-python/
-# Creates an image of Mandelbrot (may take 20m to run!).
+# Intro- Creates an image of Mandelbrot (may take 20m to run!).
+# Details- http://preshing.com/20110926/high-resolution-mandelbrot-in-obfuscated-python/
 
 _                                      =   (
                                         255,
