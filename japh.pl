@@ -1,6 +1,6 @@
 # Intro- Prints "just another perl hacker".
 # Details- http://stackoverflow.com/questions/14440594/how-does-this-famous-japh-work
-# Source- http://www.perlmonks.org/?node_id=329492
+# Source- http://www.perlmonks.org/?node_id=290607
 
 not exp log srand xor s qq qx xor
 s x x length uc ord and print chr
