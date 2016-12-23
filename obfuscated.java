@@ -1,5 +1,6 @@
-// Developer- Peter van der Linden (April 1, 1996), a little modified.
-// Prints "Hi!" in the console, looks like a big meaningless comment though.
+// Developer- Peter van der Linden (April 1, 1996), little modified.
+// Intro- Prints "Hi!" in the console, looks like a big meaningless comment though.
+// Details- https://community.oracle.com/blogs/forax/2006/10/16/obfuscated-java
  
 public class obfuscated{
 	/**
