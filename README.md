@@ -61,4 +61,5 @@ All the programs here have been tested (by me). [TutorialsPoint-CodingGround](ht
 - https://www.quora.com/What-is-the-most-elegant-line-of-code-youve-seen
 - https://www.quora.com/What-is-the-shortest-and-most-effective-code-ever-written
 - http://codegolf.stackexchange.com/questions/tagged/tips?sort=votes&pageSize=15
+- http://cs.lmu.edu/~ray/notes/quineprograms/
 - https://www.quora.com/Whats-the-coolest-thing-you-can-get-a-computer-to-do-in-10-lines-of-code
