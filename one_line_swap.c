@@ -20,9 +20,7 @@ main(){
     printf("%d %d\n", a, b);
  
     // Bonus- Get the max number without using logical operation
-    int m = (a+b+sqrt((a-b)*(a-b)))/2; // Developer- Minhas Kamal (https://minhaskamal.github.io)
-                                       // Details- max = (max+max)/2 = (max+(min+differenceOfMinMax))/2
-                                       //              = ( max+(min+absolute(max-min)) )/2;
-                                       //              = ( max+min+squareroot((max-min)*(max-min)) )/2;
+    int m = (a+b+((a-b)>>sizeof(int)*8-1|1)*(a-b))/2; // Developer- Minhas Kamal (https://minhaskamal.github.io)
+                                                      // Details- http://i.imgur.com/6Z2J1NF.png
     printf("%d \n", m);
 }
