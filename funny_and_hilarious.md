@@ -15,7 +15,7 @@
 
     Programmer is a person who solves a problem that you don't know you have, in a way you don't understand.
 
-![Definition of Programmer Img](file:///C:/Users/admin/Desktop/get.gif)
+![Definition of Programmer Img](https://cloud.githubusercontent.com/assets/5456665/22073097/93665256-ddce-11e6-91b6-e1916df5d1fe.gif)
 
 ## What is Algorithm?
 
@@ -51,7 +51,7 @@
 
 <br />
 <div align="right">
-    <b><i>So funny & hilarious that they may seem creepy!</i></b>
+    <b><i>So funny and hilarious that they may seem creepy!</i></b>
     <br />
     collected from the web :P
 </div>
