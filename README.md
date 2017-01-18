@@ -53,11 +53,12 @@ Most of the programs here are hell hard to understand. The details-url provided 
 Sorted by difficulty level-
 
 ### Level-1: Genin
-  - [pyjava.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/pyjava.java)
-  - [one_line_swap.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/one_line_swap.c)
-  - [hello_world.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/hello_world.java)
-  - [bangladesh.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/bangladesh.c)
-  - [obfuscated.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/obfuscated.java)
+
+[pyjava.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/pyjava.java) | Java code written like python. Finds factorial of big numbers.
+[one_line_swap.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/one_line_swap.c) | Strange one-liners that swaps value of two variables.
+[hello_world.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/hello_world.java) | Magically outputs "hello world" in the console.
+[bangladesh.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/bangladesh.c) | Prints Map of Bangladesh. 
+[obfuscated.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/obfuscated.java) | Prints "Hi!" in the console, looks like a big meaningless comment though.
   
 ### Level-2: Chunin
   - [bitwise_arithmetic.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/bitwise_arithmetic.c)
@@ -92,15 +93,13 @@ If you liked this project, then I am sure you will also love [CuteVirusCollectio
 
 
 ## Places for More Creepy Codes
-- http://www.ioccc.org/years-spoiler.html
-- http://www.perlmonks.org/
-- http://www.iwriteiam.nl/SigProgC.html
-- http://codegolf.stackexchange.com/questions/69/golf-you-a-quine-for-great-good
+- [IOCCC](http://www.ioccc.org/years-spoiler.html), [IOCCC Winning Entries](http://www.pixelstech.net/article/1351185934-Do-you-really-understand-C-21st-International-Obfuscated-C-Code-Contest-winning-entries)
+- [PerlMonks](http://www.perlmonks.org)
+- [C Cignature Programs](http://www.iwriteiam.nl/SigProgC.html)
+- [CodeGolf-StackExchange: Tips](http://codegolf.stackexchange.com/questions/tagged/tips?sort=votes&pageSize=15), [CodeGolf-StackExchange: Quine](http://codegolf.stackexchange.com/questions/69/golf-you-a-quine-for-great-good), [StackOverflow: Strangest Language Feature](http://stackoverflow.com/questions/1995113/strangest-language-feature)
+- [JS1K](http://js1k.com)
+- [Quora: Elegant Code](https://www.quora.com/What-is-the-most-elegant-line-of-code-youve-seen), [Quora: Shortest Effective Code](https://www.quora.com/What-is-the-shortest-and-most-effective-code-ever-written), [Quora: Coolest Thing in 10 Line](https://www.quora.com/Whats-the-coolest-thing-you-can-get-a-computer-to-do-in-10-lines-of-code)
+- [QuinePrograms](http://cs.lmu.edu/~ray/notes/quineprograms/)
+- [CodePoetry](http://code-poetry.com/)
+- [Anarchy Golf](http://golf.shinh.org/all.rb)
 - http://uguu.org/sources.html
-- http://js1k.com/
-- http://stackoverflow.com/questions/1995113/strangest-language-feature
-- https://www.quora.com/What-is-the-most-elegant-line-of-code-youve-seen
-- https://www.quora.com/What-is-the-shortest-and-most-effective-code-ever-written
-- http://codegolf.stackexchange.com/questions/tagged/tips?sort=votes&pageSize=15
-- http://cs.lmu.edu/~ray/notes/quineprograms/
-- https://www.quora.com/Whats-the-coolest-thing-you-can-get-a-computer-to-do-in-10-lines-of-code
