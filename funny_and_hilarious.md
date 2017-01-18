@@ -15,15 +15,19 @@
 
     Programmer is a person who solves a problem that you don't know you have, in a way you don't understand.
 
+![Definition of Programmer Img](file:///C:/Users/admin/Desktop/get.gif)
+
 ## What is Algorithm?
 
-    Wored used by programmers when they do not want to explain what they did.
+    Word used by programmers when they do not want to explain what they did.
 
 ## Robust Random Number Generator
 
     int getRandomNumber() {
         return 4; // chosen by fair dice roll, guaranteed to be random
     }
+    
+![Robust Random Number Generator Img](https://qph.ec.quoracdn.net/main-qimg-30dcc3032482f03ce41d0dfc58fb1ddb-c?convert_to_webp=true)
 
 ## Date of Tomorrow
 
@@ -31,6 +35,8 @@
         sleep(24*60*60);
         return getTimeOfDay(date);
     }
+
+![Date of Tomorrow Img](https://qph.ec.quoracdn.net/main-qimg-c7cf2bdc7f34ff7b74835845bf2eb810-c?convert_to_webp=true)
 
 ## God Is The Supreme Programmer 
 
@@ -41,7 +47,7 @@
 
     #define if while
 
-
+![Commit before Leaving Job Img](https://qph.ec.quoracdn.net/main-qimg-79690742b44c30ea1022f56486bd305d-c?convert_to_webp=true)
 
 <br />
 <div align="right">
