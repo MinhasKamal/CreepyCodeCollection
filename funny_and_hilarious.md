@@ -49,6 +49,23 @@
 
 ![Commit before Leaving Job Img](https://qph.ec.quoracdn.net/main-qimg-79690742b44c30ea1022f56486bd305d-c?convert_to_webp=true)
 
+## Dream Language-
+
+    Machine,
+
+    Pls make website,
+
+    all responsive like,
+    w/ BIG pictures ooo,
+    use my fav fonts,
+    also fancy menus with whooosh on,
+    load fast pls
+
+    Thanks,
+    Human
+
+    PS no bugs :)
+
 <br />
 <div align="right">
     <b><i>So funny and hilarious that they may seem creepy!</i></b>
