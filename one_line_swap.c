@@ -22,5 +22,8 @@ main(){
     // Bonus- Get the max number without using logical operation
     int m = (a+b+((a-b)>>sizeof(int)*8-1|1)*(a-b))/2; // Developer- Minhas Kamal (https://minhaskamal.github.io)
                                                       // Details- http://i.imgur.com/6Z2J1NF.png
+                                                      // Another Solution- If both both numbers are positive
+                                                      //                   then this works too:
+                                                      //                   m = (int[]){a,b}[1-!!(a/b)]
     printf("%d \n", m);
 }
