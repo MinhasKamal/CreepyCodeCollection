@@ -1,4 +1,12 @@
-## Most Helpful Comment
+## Robust Random Number Generator
+
+    int getRandomNumber() {
+        return 4; // chosen by fair dice roll, guaranteed to be random
+    }
+    
+![Robust Random Number Generator Img](https://qph.ec.quoracdn.net/main-qimg-30dcc3032482f03ce41d0dfc58fb1ddb-c?convert_to_webp=true)
+
+## Greatest Lifesaving Comment
 
     // 
     // Dear maintainer:
@@ -20,14 +28,6 @@
 ## What is Algorithm?
 
     Word used by programmers when they do not want to explain what they did.
-
-## Robust Random Number Generator
-
-    int getRandomNumber() {
-        return 4; // chosen by fair dice roll, guaranteed to be random
-    }
-    
-![Robust Random Number Generator Img](https://qph.ec.quoracdn.net/main-qimg-30dcc3032482f03ce41d0dfc58fb1ddb-c?convert_to_webp=true)
 
 ## Date of Tomorrow
 
