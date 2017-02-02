@@ -1,4 +1,4 @@
-# CreepyCodeCollection
+<h1> <img src="https://cloud.githubusercontent.com/assets/5456665/22562161/9e1ff75a-e9a5-11e6-80b3-3e0d2328f800.png" width="20" height=auto /> CreepyCodeCollection</h1>
 #### A Nonsense Collection of Disgusting Codes
 
 Here we are talking about creepiest of the most creepy codes. Programs, behave so strange, that they will twist your brain. Snippets, so small, that you won’t believe their functionality. And codes, so cryptic, that even the top coders will think of going back to the college.
