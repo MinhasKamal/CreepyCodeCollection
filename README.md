@@ -89,7 +89,7 @@ Code | Intro
 [matrix_effect.html](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/matrix_effect.html) | Displays a matrix-like screen.
 [pi_signature.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/pi_signature.c) | Calculates the first 15000 digits of PI.
 
-### Level-4: Sannin
+### Level-4: Kage
 
 Code | Intro
 --- | --- 
@@ -98,6 +98,14 @@ Code | Intro
 [qlobe.rb](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/qlobe.rb) | Prints the globe. And it can also be turned by puting command-line argument.
 [animated_3d_doughnut.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/animated_3d_doughnut.c) | Shows a 3d animated doughnut with ASCII art.
 [mandelbrot_flythrough.pl](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/mandelbrot_flythrough.pl) | Rotates, zooms in & out, and scrolls randomly to examine regions of the Mandelbrot.
+
+### Special Kind
+
+Code | Intro
+--- | --- 
+[octaglot.cob.pas.f77.c.ps.sh.pl.com](https://rosettacode.org/wiki/Polyglot) | A polyglot, prints "hello polyglots" in 8 languages.
+[esoteric_polyglot.mal.bf.ws.asdf.123.spoon.excon](https://github.com/kenrube/Esopoly) | A polyglot written in 7 esoteric languages.
+[palindrome_polyglot_quine.cs.java](https://github.com/KvanTTT/Freaky-Sources/blob/master/Patterns%20and%20Data/PalindromePolyglotQuine.cs.java) | The code is palindromic, compiles in C# and Java, prints itself.
 
 All the programs here have been tested (by me). [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages) has online code editors and compilers, which can be used to run these programs. Many programs here have been collected from q/a and discussion sites, like- [StackOverflow](stackoverflow.com), [Quora](https://www.quora.com/), [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com/), & [Hacker News](https://news.ycombinator.com/news).
 
