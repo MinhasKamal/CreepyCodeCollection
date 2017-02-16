@@ -107,7 +107,7 @@ Code | Intro
 [esoteric_polyglot.mal.bf.ws.asdf.123.spoon.excon](https://github.com/kenrube/Esopoly) | A polyglot written in 7 esoteric languages.
 [palindrome_polyglot_quine.cs.java](https://github.com/KvanTTT/Freaky-Sources/blob/master/Patterns%20and%20Data/PalindromePolyglotQuine.cs.java) | The code is palindromic, compiles in C# and Java, prints itself.
 
-All the programs here have been tested (by me). [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages) has online code editors and compilers, which can be used to run these programs. Many programs here have been collected from q/a and discussion sites, like- [StackOverflow](stackoverflow.com), [Quora](https://www.quora.com/), [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com/), & [Hacker News](https://news.ycombinator.com/news).
+All the programs here have been tested (by me). [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages) has online code editors and compilers, which can be used to run these programs. Many programs here have been collected from q/a and discussion sites, like- [StackOverflow](https://stackoverflow.com), [Quora](https://www.quora.com), [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com), & [Hacker News](https://news.ycombinator.com/news).
 
 If you liked this project, then I am sure you will also love [CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection).
 
