@@ -1,7 +1,10 @@
+// Developer- Manfred Touron (https://github.com/moul) & Uriel Corfa (https://github.com/korfuri)
+// Intro- Prints a dynamic christmas tree.
+// Details- https://github.com/MinhasKamal/CreepyCodeCollection/pull/10
+
 #define C(B,E,S)(1+(E)*2+(B)*4+(((B)/2)*2)*(((B)+1)/2))
 
-/*  Code by moul  */ __ /* (ugly) Art by Korfuri */
-
+/* */ __
 /* by */                     (
 /* ko */                    int
 /* rf */                   $,int
@@ -29,4 +32,4 @@
 /* ts */                   1[v])
 /* <3 */                   >=0?_
 /*/*             (2,0,0,8,astk(0[x])):c;}             /**/
-/**/             (0,0,0,0,atoi(1[v])):0;}             //**
+/**/             (0,0,0,0,atoi(1[v])):0;}             /**/
