@@ -1,5 +1,5 @@
 // Developer: Victor Adam (https://github.com/Grimy) & Minhas Kamal (https://minhaskamal.github.io/)
-// Intro- Prints The Map of Bangladesh.
+// Intro- Prints the map of Bangladesh.
 // Inspired- http://stackoverflow.com/questions/3533348/how-does-this-code-generate-the-map-of-india
 
 b;c;char*m="'$R'$$L,%$E/#%C5C4F1G1EK+M'O'O)M-H2D2@6?)%.?('.\
