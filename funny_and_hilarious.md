@@ -21,7 +21,7 @@
 
 ## Definition of Programmer
 
-    Programmer is a person who solves a problem that you don't know you have, in a way you don't understand.
+    Programmer is a teacher who takes the bloody challenge of tutoring the dumbest student and make him the smartest.
 
 ![Definition of Programmer Img](https://cloud.githubusercontent.com/assets/5456665/22073097/93665256-ddce-11e6-91b6-e1916df5d1fe.gif)
 
@@ -65,6 +65,10 @@
     Human
 
     PS no bugs :)
+
+## You Know You're Nuked
+    
+    When you Google an error and find GitHub issues instead of Stackoverflow answers.
 
 <br />
 <div align="right">
