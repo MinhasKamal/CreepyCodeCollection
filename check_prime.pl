@@ -4,3 +4,7 @@
  
 $a=33;
 print "prime" if(1x$a)!~/^1?$|^(11+?)\1+$/;
+
+# Following Java code does the same thing-
+#     public boolean prime(int n){return !new String(new char[n]).matches(".?|(..+?)\\1+");}
+# Details- http://stackoverflow.com/questions/2795065/how-to-determine-if-a-number-is-a-prime-with-regex
