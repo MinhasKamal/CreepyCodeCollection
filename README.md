@@ -1,4 +1,5 @@
 <h1> <img src="https://cloud.githubusercontent.com/assets/5456665/22564404/991be738-e9ae-11e6-9084-c1631f970b60.png" width="20" height=auto /> CreepyCodeCollection</h1>
+
 #### A Nonsense Collection of Disgusting Codes
 
 Here we are talking about creepiest of the most creepy codes. Programs, behave so strange, that they will twist your brain. Snippets, so small, that you won’t believe their functionality. And codes, so cryptic, that even the top coders will think of going back to the college.
@@ -111,7 +112,7 @@ Code | Intro
 
 All the programs here have been tested (by me). [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages) has online code editors and compilers, which can be used to run these programs. Many programs here have been collected from q/a and discussion sites, like- [StackOverflow](//stackoverflow.com), [Quora](https://www.quora.com/), [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com/), & [Hacker News](https://news.ycombinator.com/news).
 
-If you liked this project, then I am sure you will also love [CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection).
+If you liked this project, then you will also love [CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection).
 
 
 ## Places for More Creepy Codes
@@ -124,5 +125,6 @@ If you liked this project, then I am sure you will also love [CuteVirusCollectio
 - [QuinePrograms](http://cs.lmu.edu/~ray/notes/quineprograms/)
 - [CodePoetry](http://code-poetry.com/)
 - [Anarchy Golf](http://golf.shinh.org/all.rb)
-- http://uguu.org/sources.html
 - [JS Code Golfing](https://gist.github.com/xem/206db44adbdd09bac424)
+- http://uguu.org/sources.html
+
