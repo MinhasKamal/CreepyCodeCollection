@@ -19,6 +19,10 @@ main(){
     a=b+a-(b=a); //Details- http://stackoverflow.com/questions/20800684/why-is-a-ab-b-a-a-bad-choice-for-swapping-two-integers
     printf("%d %d\n", a, b);
  
+    // This python code swaps value of two variables- 
+    //     a, b = b, a
+    // Details- https://stackoverflow.com/questions/21047524/how-does-swapping-of-members-in-the-python-tuples-a-b-b-a-work-internally
+ 
     // Bonus- Get the max number without using logical operation
     int m = (a+b+((a-b)>>sizeof(int)*8-1|1)*(a-b))/2; // Developer- Minhas Kamal (https://minhaskamal.github.io)
                                                       // Details- http://i.imgur.com/6Z2J1NF.png
