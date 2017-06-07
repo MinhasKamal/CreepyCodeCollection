@@ -5,25 +5,25 @@
 #include <stdio.h>
 
 int ma\
-in() {                             /// [1]
+in() {
 
     int arr[10], i;
 
     for(i=0; i<10; i++){
-        i[arr] = i;                /// [2]
+        i[arr] = i;
     }
 
-    while(i --> 0){                /// [3]
-        printf("%d ", *arr+i);     /// [4]
+    while(i --> 0){
+        printf("%d ", *arr+i);
     }
 
-    https://www.google.com         /// [5]
+    https://www.google.com
 
     i = 010;
-    printf("\n| %d |", i);         /// [6]
+    printf("\n| %d |", i);
 
     i = 5i;
-    printf("\n %d", i);            /// [7]
+    printf("\n %d", i);
 
     return 0;
 }
