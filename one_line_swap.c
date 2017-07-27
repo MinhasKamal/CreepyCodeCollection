@@ -25,7 +25,7 @@ main(){
  
     // Bonus- Get the max number without using logical operation
     int m = (a+b+((a-b)>>sizeof(int)*8-1|1)*(a-b))/2; // Developer- Minhas Kamal (https://minhaskamal.github.io)
-                                                      // Details- https://www.quora.com/How-can-I-find-the-maximum-of-two-numbers-without-using-if-else-or-any-other-comparison-operator/answer/Minhas-Kamal
+                                                      // Details- https://stackoverflow.com/a/41736445/4684058
                                                       // Another Solution- If both both numbers are positive
                                                       //                   then this works too:
                                                       //                   m = (int[]){a,b}[1-!!(a/b)]
