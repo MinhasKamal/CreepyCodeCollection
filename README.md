@@ -2,7 +2,7 @@
 
 #### A Nonsense Collection of Disgusting Codes
 
-Here we are talking about creepiest of the most creepy codes. Programs, behave so strange, that they will twist your brain. Snippets, so small, that you won’t believe their functionality. And codes, so cryptic, that even the top coders will think of going back to the college.
+**Here we are talking about creepiest of the most creepy codes. Programs, behave so strange, that they will twist your brain. Snippets, so small, that you won’t believe their functionality. And codes, so cryptic, that even the top coders will think of going back to the college.**
 
 **Note**: Never try this type of code in a real life software project; readability and maintainability should be the main concern there.
 
@@ -36,7 +36,7 @@ The program is a Ruby [Quine](https://en.wikipedia.org/wiki/Quine_(computing)) c
     <img src="https://cloud.githubusercontent.com/assets/5456665/21362343/258441bc-c712-11e6-88bf-f8f02a028ad3.gif" alt="Qlobe" height="300" width=auto/>
   </div>
 
-This is my favourite- The Animated 3d Doughnut ([↗](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/animated_3d_doughnut.c)). Taste how delicious it is!
+This is one of my favourites- The Animated 3d Doughnut ([↗](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/animated_3d_doughnut.c)). Taste how delicious it is!
 
   <div align="center">
     <img src="https://cloud.githubusercontent.com/assets/5456665/21362492/c976724a-c712-11e6-9773-03e80f8ba598.gif" alt="Animated 3d Doughnut" height="300" width=auto/>
@@ -53,7 +53,7 @@ Most of the programs here are hell hard to understand. The details-url provided 
 ## Creepy Rank
 Sorted by difficulty level-
 
-### Level-1: Genin
+### Level- 1: Genin
 
 Code | Intro
 --- | --- 
@@ -64,7 +64,7 @@ Code | Intro
 [obfuscated.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/obfuscated.java) | Prints "Hi!" in the console, looks like a big meaningless comment though.
 [strange.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/strange.c) | A strange code with more strange output.
   
-### Level-2: Chunin
+### Level- 2: Chunin
 
 Code | Intro
 --- | --- 
@@ -80,7 +80,7 @@ Code | Intro
 [polyglot_so404.py.pl.rb.c.bf](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/polyglot_so404.py.pl.rb.c.bf) | Prints 404 in python, perl, ruby, c and brainfu\*k.
 [polyglot_quine.c.py.pl.rb](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/polyglot_quine.c.py.pl.rb) | A quine that runs in c, python, perl & ruby.
 
-### Level-3: Jonin
+### Level- 3: Jonin
 
 Code | Intro
 --- | --- 
@@ -93,7 +93,7 @@ Code | Intro
 [matrix_effect.html](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/matrix_effect.html) | Displays a matrix-like screen.
 [pi_signature.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/pi_signature.c) | Calculates the first 15000 digits of PI.
 
-### Level-4: Kage
+### Level- 4: Kage
 
 Code | Intro
 --- | --- 
@@ -103,7 +103,7 @@ Code | Intro
 [animated_3d_doughnut.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/animated_3d_doughnut.c) | Shows a 3d animated doughnut with ASCII art.
 [mandelbrot_flythrough.pl](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/mandelbrot_flythrough.pl) | Rotates, zooms in & out, and scrolls randomly to examine regions of the Mandelbrot.
 
-### Specials
+### Level- Unknown
 
 Code | Intro
 --- | --- 
@@ -114,10 +114,10 @@ Code | Intro
 
 All the programs here have been tested (by me). [TutorialsPoint-CodingGround](https://www.tutorialspoint.com/codingground.htm) or [repl.it](https://repl.it/languages) has online code editors and compilers, which can be used to run these programs. Many programs here have been collected from q/a and discussion sites, like- [StackOverflow](//stackoverflow.com), [Quora](https://www.quora.com/), [Programming Puzzles & Code Golf](http://codegolf.stackexchange.com/), & [Hacker News](https://news.ycombinator.com/news).
 
-If you liked this project, then you will also love [CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection).
+If you liked this project, then you may also love [CuteVirusCollection](https://github.com/MinhasKamal/CuteVirusCollection).
 
 
-## Places for More Creepy Codes
+## Not Satisfied Yet!
 - [IOCCC](http://www.ioccc.org/years-spoiler.html), [IOCCC Winning Entries](http://www.pixelstech.net/article/1351185934-Do-you-really-understand-C-21st-International-Obfuscated-C-Code-Contest-winning-entries)
 - [PerlMonks](http://www.perlmonks.org)
 - [C Cignature Programs](http://www.iwriteiam.nl/SigProgC.html)
@@ -128,5 +128,3 @@ If you liked this project, then you will also love [CuteVirusCollection](https:/
 - [CodePoetry](http://code-poetry.com/)
 - [Anarchy Golf](http://golf.shinh.org/all.rb)
 - [JS Code Golfing](https://gist.github.com/xem/206db44adbdd09bac424)
-- http://uguu.org/sources.html
-
