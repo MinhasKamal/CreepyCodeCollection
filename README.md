@@ -104,7 +104,7 @@ Code | Intro
 [animated_3d_doughnut.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/animated_3d_doughnut.c) | Shows a 3d animated doughnut with ASCII art.
 [mandelbrot_flythrough.pl](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/mandelbrot_flythrough.pl) | Rotates, zooms in & out, and scrolls randomly to examine regions of the Mandelbrot.
 
-### Level- Unknown
+### Rogue 
 
 Code | Intro
 --- | --- 
