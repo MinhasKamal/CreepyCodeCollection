@@ -60,6 +60,7 @@ Code | Intro
 [pyjava.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/pyjava.java) | Java code written like python. Finds factorial of big numbers.
 [backward.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/backward.java) | Weird flipped code compiles- "backward!".
 [one_line_swap.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/one_line_swap.c) | Strange one-liners that swaps value of two variables.
+[without_main.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/without_main.c) | C code without main.
 [hello_world.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/hello_world.java) | Magically outputs "hello world" in the console.
 [obfuscated.java](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/obfuscated.java) | Prints "Hi!" in the console, looks like a big meaningless comment though.
 [strange.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/strange.c) | A strange code with more strange output.
