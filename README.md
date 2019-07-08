@@ -100,7 +100,7 @@ Code | Intro
 --- | --- 
 [mandelbrot_imager.py](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/mandelbrot_imager.py) | Creates an image of Mandelbrot (may take 20m to run!).
 [shortest_tetris.html](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/shortest_tetris.html) | Very short and simplified variant of the classic tetris game.
-[qlobe.rb](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/qlobe.rb) | Prints the globe. And it can also be turned by puting command-line argument.
+[qlobe.rb](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/qlobe.rb) | Prints the globe. And it can also be turned by putting command-line argument.
 [animated_3d_doughnut.c](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/animated_3d_doughnut.c) | Shows a 3d animated doughnut with ASCII art.
 [mandelbrot_flythrough.pl](https://github.com/MinhasKamal/CreepyCodeCollection/blob/master/mandelbrot_flythrough.pl) | Rotates, zooms in & out, and scrolls randomly to examine regions of the Mandelbrot.
 
