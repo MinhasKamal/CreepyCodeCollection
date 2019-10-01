@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 main(){
-    printf("%d %d %d", dow(2011, 7, 19), dow(1993, 5, 23), dow(2016, 12, 16)); //output- 2 0 5
+    printf("%d %d %d", dow(2011, 7, 19), dow(1693, 5, 23), dow(2018, 12, 16)); //output- 2 0 5
 }
 
 int dow(int y, int m, int d) {
