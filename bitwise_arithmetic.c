@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 main(){
-    printf("%d %d", add(4, 5), multiply(4, 5));
+    printf("%d %d", add(5, 5), multiply(6, 5));
 }
  
 int multiply(int a, int b){
