@@ -7,5 +7,5 @@
 #define __(n,e,u,t,r,a,l) t##r##u##e
 
 _(){
-    printf("true!\n");
+    printf("False!\n");
 }
