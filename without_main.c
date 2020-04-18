@@ -1,6 +1,6 @@
 // Developer- Susam Pal (https://stackoverflow.com/users/303363/susam-pal)
 // Intro- C code without main.
-// Details- http://susam.in/blog/obfuscating-main-function/
+// Details- https://susam.in/blog/obfuscating-main/
 
 #include <stdio.h>
 #define _ __(a,n,i,m,a,t,e)
