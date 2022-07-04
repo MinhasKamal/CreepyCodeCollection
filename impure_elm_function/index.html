@@ -1,0 +1,17 @@
+<html>
+<head></head>
+<body>
+  <main></main>
+  <script>
+    var obj = {
+      get n() {
+        return Math.random();
+      },
+    };
+    var app = Elm.Main.init({
+      node: document.querySelector('main'),
+      flags: obj,
+    });
+  </script>
+</body>
+</html>
